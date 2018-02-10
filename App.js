@@ -8,6 +8,7 @@ import { Alert, Button, StyleSheet, Text, ScrollView, View, TouchableHighlight, 
 // import ExampleSix from './components/ExampleSix';
 // import ExampleSeven from './components/ExampleSeven';
 // import ExampleEight from './components/ExampleEight';
+// import ExampleNine from './components/ExampleNine';
 
 
 const styles = StyleSheet.create({
@@ -31,6 +32,7 @@ export default class App extends React.Component {
         {/* <ExampleSix /> */}
         {/* <ExampleSeven /> */}
         {/* <ExampleEight /> */}
+        {/* <ExampleNine /> */}
       </ScrollView>
     );
   }
